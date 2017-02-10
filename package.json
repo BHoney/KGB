@@ -1,0 +1,21 @@
+{
+  "name": "kgb",
+  "version": "0.0.3",
+  "description": "A Cyber Security reconissance package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "kgb": "node app"
+  },
+  "keywords": [
+    "search", "recon"
+  ],
+  "author": "bloodyhoney",
+  "license": "ISC",
+  "dependencies": {
+    "google": "2.1.0",
+    "node-persist": "0.0.6",
+    "prompt": "1.0.0",
+    "whois": "2.3.6"
+  }
+}
